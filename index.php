@@ -3,7 +3,7 @@
 <head>
 <title>စိုင်းထီးဆိုင်</title>
 </head>
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="./styles.css">
 <body>
 <ul>
   <li><span>home</span></li>
