@@ -11,8 +11,6 @@
   <li><span>ထူးအိမ်သင်</span></li>
 <li><span>အာဇာနည်</span></li>
   <li><span>ဝိုင်ဝိုင်း</span></li>
-  <li><span>ဇော်ပိုင်</span></li>
-<li><span>ဘိုဖြူ</span></li>
   
 </ul>
 </body>
