@@ -10,7 +10,7 @@
   <li><span>မာရဇ္ဇ</span></li>
   <li><span>ထူးအိမ်သင်</span></li>
 <li><span>အာဇာနည်</span></li>
-  <li><span>&rarr;</span></li>
+  <li><span><b>&rarr;</b></span></li>
 
   
 </ul>
